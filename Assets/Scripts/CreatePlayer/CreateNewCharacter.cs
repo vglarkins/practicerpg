@@ -18,7 +18,7 @@ public class CreateNewCharacter : MonoBehaviour {
 	
 	}
 
-	void GUI (){
+	void OnGUI (){
 		isMageClass = GUILayout.Toggle (isMageClass, "Mage Class");
 		isWarriorClass = GUILayout.Toggle (isWarriorClass, "Warrior Class");
 		if(GUILayout.Button("Create")){
