@@ -46,13 +46,23 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Base Player\BasePlayer.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseCharacterClass.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseMageClass.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseWarriorClass.cs" />
+     <Compile Include="Assets\Scripts\CreatePlayer\CreateNewCharacter.cs" />
+     <Compile Include="Assets\Scripts\Items\BaseEquipment.cs" />
      <Compile Include="Assets\Scripts\Items\BaseItem.cs" />
+     <Compile Include="Assets\Scripts\Items\BasePotion.cs" />
+     <Compile Include="Assets\Scripts\Items\BaseScroll.cs" />
      <Compile Include="Assets\Scripts\Items\BaseStatitem.cs" />
      <Compile Include="Assets\Scripts\Items\BaseWeapon.cs" />
+     <Compile Include="Assets\Scripts\Items\CreateNewEquipment.cs" />
+     <Compile Include="Assets\Scripts\Items\CreateNewPotion.cs" />
+     <Compile Include="Assets\Scripts\Items\CreateNewScroll.cs" />
+     <Compile Include="Assets\Scripts\Items\CreateNewWeapon.cs" />
      <Compile Include="Assets\Scripts\TestGUI.cs" />
+     <Compile Include="Assets\Scripts\Turn Based Combat\TurnBasedCombatStateMachine.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>G:/Programs/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

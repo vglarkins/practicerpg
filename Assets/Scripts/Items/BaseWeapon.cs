@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BaseWeaponScript : BaseStatitem {  //BaseWeapon <- BaseStatitem <- BaseItem
+public class BaseWeapon : BaseStatitem {  //BaseWeapon <- BaseStatitem <- BaseItem
 
 
 	public enum WeaponTypes{

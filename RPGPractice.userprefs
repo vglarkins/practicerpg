@@ -1,14 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Items\BaseStatitem.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Base Player\BasePlayer.cs">
     <Files>
-      <File FileName="Assets\Scripts\Items\BaseItem.cs" Line="36" Column="1" />
-      <File FileName="Assets\Scripts\TestGUI.cs" Line="25" Column="57" />
-      <File FileName="Assets\Scripts\Character Classes\BaseWarriorClass.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Character Classes\BaseMageClass.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Character Classes\BaseCharacterClass.cs" Line="37" Column="3" />
-      <File FileName="Assets\Scripts\Items\BaseStatitem.cs" Line="28" Column="1" />
-      <File FileName="Assets\Scripts\Items\BaseWeapon.cs" Line="27" Column="1" />
+      <File FileName="Assets\Scripts\Base Player\BasePlayer.cs" Line="47" Column="3" />
+      <File FileName="Assets\Scripts\Turn Based Combat\TurnBasedCombatStateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CreatePlayer\CreateNewCharacter.cs" Line="24" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
